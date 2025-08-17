@@ -1,7 +1,6 @@
 streamlit==1.37.0
-opencv-python
-mediapipe==0.10.20
-Pillow
+opencv-python-headless
+mediapipe-silicon
 numpy
+Pillow
 streamlit-webrtc
-requests
