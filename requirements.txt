@@ -4,4 +4,5 @@ mediapipe
 numpy
 pillow
 streamlit-webrtc
+requests
 av
