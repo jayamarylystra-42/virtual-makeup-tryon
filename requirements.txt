@@ -1,0 +1,7 @@
+streamlit==1.37.0
+opencv-python
+mediapipe
+numpy
+pillow
+streamlit-webrtc
+av
